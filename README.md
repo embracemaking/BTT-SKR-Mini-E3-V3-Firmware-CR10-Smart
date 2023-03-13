@@ -1,5 +1,10 @@
 # BTT-SKR-Mini-E3-V3-Firmware-CR10-Smart
-Repository for BTT SKR Mini E3 V3 firmware for the CR10 Smart upgrade in combination with the BTT TFT35 V3 touchscreen, CR-touch ABL sensor, LGX Lite direct drive extruder, BTT Relay V1.2. 
+Repository for BTT SKR Mini E3 V3 firmware for the CR10 Smart upgrade in combination with:
+
+* BTT TFT35 V3 touchscreen
+* CR-touch ABL sensor
+* LGX Lite direct drive extruder
+* BTT Relay V1.2.
 
 Mainboard upgrade made easy using the Embrace Making Easy Swap PCB kit for these machines. You can find those PCBs here:
 
