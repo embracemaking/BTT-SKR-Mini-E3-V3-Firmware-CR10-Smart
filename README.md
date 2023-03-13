@@ -11,6 +11,10 @@ Pre-compiled .bin file accomodates the following modifications:
 * BTT Relay V1.2.
 * Neopixel Jewel RGBW https://www.adafruit.com/product/2860
 
+Wiring diagrams here:
+
+
+
 The 3D printable files to fit the BTT SKR Mini E3 V3 to the CR10 Smart can be found here:
 
 
