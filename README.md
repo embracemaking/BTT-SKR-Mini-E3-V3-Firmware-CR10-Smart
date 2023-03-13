@@ -5,6 +5,7 @@ Repository for BTT SKR Mini E3 V3 firmware for the CR10 Smart upgrade in combina
 * CR-touch ABL sensor
 * LGX Lite direct drive extruder
 * BTT Relay V1.2.
+* Neopixel Jewel RGBW https://www.adafruit.com/product/2860
 
 Mainboard upgrade made easy using the Embrace Making Easy Swap PCB kit for these machines. You can find those PCBs here:
 
