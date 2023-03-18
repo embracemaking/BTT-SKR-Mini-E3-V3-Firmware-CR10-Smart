@@ -1,7 +1,11 @@
 # BTT-SKR-Mini-E3-V3-Firmware-CR10-Smart
 Repository for BTT SKR Mini E3 V3 firmware for the CR10 Smart mainboard upgrade made easy using the Embrace Making 'Easy Swap PCB kit' which can be found here:
 
-insert link
+* https://embracemaking.com/products/cr10-smart-cr6-se-mainboard-easy-swap-pcb-kit
+
+Video showing the entire installation of all upgrades and mainboard on a CR10 Smart:
+
+* https://youtu.be/vo5xYLcvk2w
 
 Pre-compiled .bin file accomodates the following modifications:
 
