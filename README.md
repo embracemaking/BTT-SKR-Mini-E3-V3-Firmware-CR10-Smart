@@ -17,7 +17,7 @@ Pre-compiled .bin file accomodates the following modifications:
 
 Wiring diagrams here:
 
-https://embracemaking.com/blogs/resources/cr10-smart-cr-6-se-easy-swap-pcb-wiring-diagrams
+* https://embracemaking.com/blogs/resources/cr10-smart-cr-6-se-easy-swap-pcb-wiring-diagrams
 
 The 3D printable files to fit the BTT SKR Mini E3 V3 to the CR10 Smart can be found here:
 
