@@ -3,6 +3,10 @@ Repository for BTT SKR Mini E3 V3 firmware for the CR10 Smart mainboard upgrade 
 
 * https://embracemaking.com/products/cr10-smart-cr6-se-mainboard-easy-swap-pcb-kit
 
+Print head parts for the CR10 Smart to enable mounting of the CR Touch module:
+
+* https://embracemaking.com/products/creality-cr10-smart-cr-touch-lgx-lite-5015-cooling-fan-conversion
+
 Video showing the entire installation of all upgrades and mainboard on a CR10 Smart:
 
 * https://youtu.be/vo5xYLcvk2w
@@ -22,6 +26,10 @@ Wiring diagrams here:
 The 3D printable files to fit the BTT SKR Mini E3 V3 to the CR10 Smart can be found here:
 
 * https://www.printables.com/model/422494-cr10-smart-x-skr-mini-e3-v3-mounts-and-btt-tft35-v
+
+PrusaSlicer profile for the CR10 Smart X here:
+
+* https://embracemaking.com/blogs/resources/cr10-smart-x-prusaslicer-configuration
 
 ## **! PLEASE READ !**
 
