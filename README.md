@@ -21,6 +21,7 @@ https://embracemaking.com/blogs/resources/cr10-smart-cr-6-se-easy-swap-pcb-wirin
 
 The 3D printable files to fit the BTT SKR Mini E3 V3 to the CR10 Smart can be found here:
 
+* https://www.printables.com/model/422494-cr10-smart-x-skr-mini-e3-v3-mounts-and-btt-tft35-v
 
 ## **! PLEASE READ !**
 
