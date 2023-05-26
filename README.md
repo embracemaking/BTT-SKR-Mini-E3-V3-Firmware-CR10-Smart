@@ -18,6 +18,8 @@ Pre-compiled .bin file accomodates the following modifications:
 * LGX Lite direct drive extruder
 * BTT Relay V1.2.
 * Neopixel Jewel RGBW https://www.adafruit.com/product/2860
+* 100kohm thermistor
+* Creality filament runout sensor
 
 Wiring diagrams here:
 
@@ -30,6 +32,7 @@ The 3D printable files to fit the BTT SKR Mini E3 V3 to the CR10 Smart can be fo
 PrusaSlicer profile for the CR10 Smart X here:
 
 * https://embracemaking.com/blogs/resources/cr10-smart-x-prusaslicer-configuration
+* NOTE: For the filament runout detection sensor to work with files being printed from the TFT Touch screen, you MUST put M75 in the start gcode, and M77 in the end gcode!!
 
 ## **! PLEASE READ !**
 
